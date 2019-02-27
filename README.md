@@ -1,2 +1,5 @@
 # find-close-meteorites
-Python Cource
+Python Course
+
+#Running
+This project need python3 and requests package
